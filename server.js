@@ -185,41 +185,125 @@ app.get('/', function(req, res){
 
     ]
     
-  }
+  },
+
+  {
+    "title": "Genie Hi-Lo",
+    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/sc_ghl_180x100.jpg",
+    "categories": [ 
+      
+      {
+        "id": 79,
+        "name": "All Games"
+      }
+
+    ]
+    
+  },
+  {
+    "title": "Gladiator",
+    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/sc_glr_180x100.jpg",
+    "categories": [ 
+      
+      {
+        "id": 39,
+        "name": "Popular Games"
+      },
+      {
+        "id": 3,
+        "name": "Popular Games"
+      },
+      {
+        "id": 79,
+        "name": "All Games"
+      }
+
+    ]
+    
+  },
+
+  {
+    "title": "Mr.Cashback",
+    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/sc-mcb-180x100.jpg",
+    "categories": [ 
+      
+      {
+        "id": 39,
+        "name": "Popular Games"
+      },
+      {
+        "id": 3,
+        "name": "Popular Games"
+      },
+      {
+        "id": 79,
+        "name": "All Games"
+      }
+
+    ]
+    
+  },
+   {
+    "title": "Great Blue",
+    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/sc-bib-180x100.jpg",
+    "categories": [ 
+      
+      {
+        "id": 39,
+        "name": "Popular Games"
+      },
+      {
+        "id": 3,
+        "name": "Popular Games"
+      },
+      {
+        "id": 79,
+        "name": "All Games"
+      }
+
+    ]
+    
+  },
    
+    {
+    "title": "Wild Games",
+    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/SC_WILDGAMES_180x100.jpg",
+    "categories": [ 
+      
+      {
+        "id": 3,
+        "name": "Popular Games"
+      },
+      {
+        "id": 79,
+        "name": "All Games"
+      }
+
+    ]
+    
+  },
+      {
+    "title": "Kong: Eighth Wonder of the World",
+    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/SC_Kong_180x100.jpg",
+    "categories": [ 
+      
+      {
+        "id": 3,
+        "name": "Popular Games"
+      },
+      {
+        "id": 79,
+        "name": "All Games"
+      }
+
+    ]
+    
+  }
 
   
+  
+ 
 
-  // {
-  //   "title": "Genie Hi-Lo",
-  //   "image_180x100": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/sc_ghl_180x100.jpg",
-  //   "desktop_categories_ids": 79,
-  //   "desktop_categories": "All Games"
-  // },
-  // {
-  //   "title": "Gladiator",
-  //   "image_180x100": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/sc_glr_180x100.jpg",
-  //   "desktop_categories_ids": "39,3,79",
-  //   "desktop_categories": "Popular Games,Slots,All Games"
-  // },
-  // {
-  //   "title": "Mr.Cashback",
-  //   "image_180x100": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/sc-mcb-180x100.jpg",
-  //   "desktop_categories_ids": "3,79",
-  //   "desktop_categories": "Slots,All Games"
-  // },
-  // {
-  //   "title": "Great Blue",
-  //   "image_180x100": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/sc-bib-180x100.jpg",
-  //   "desktop_categories_ids": "39,3,79",
-  //   "desktop_categories": "Popular Games,Slots,All Games"
-  // },
-  // {
-  //   "title": "Wild Games",
-  //   "image_180x100": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/SC_WILDGAMES_180x100.jpg",
-  //   "desktop_categories_ids": "3,79",
-  //   "desktop_categories": "Slots,All Games"
-  // },
   // {
   //   "title": "Kong: Eighth Wonder of the World",
   //   "image_180x100": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/SC_Kong_180x100.jpg",
