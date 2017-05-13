@@ -1,25 +1,26 @@
 # -RESTful-API-
 
-Installation: 
+
+
 
 
 Clone : 
 $git clone https://github.com/polinazolotukhina/-RESTful-API-.git
 
 
-////
+..........................................................................
 
 Go to the folder:
 $cd RESTful-API
 
 
-///
+..........................................................................
 
 Run:
 $node server.js
 
 
-////
+..........................................................................
 
 
 Open:
