@@ -36,8 +36,8 @@ app.get('/', function(req, res){
   },
 
     {
-    "title": "Frankie Dettori",
-    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/sc_fdt_180x100.jpg",
+    "title": "Wikingmania",
+    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/SC_GAME_VIKING_MANIA.jpg",
      "categories": [ 
       {
         "id": 39,
@@ -174,8 +174,8 @@ app.get('/', function(req, res){
   },
 
   {
-    "title": "Genie Hi-Lo",
-    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/sc_ghl_180x100.jpg",
+    "title": "Wings of gold",
+    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/SC_GAME_WINGS_OF_GOLD.jpg",
       "categories": [ 
       
       {
@@ -298,8 +298,35 @@ app.get('/', function(req, res){
 
     ]
     
-  }
+  },
 
+
+ {
+    "title": "Elektra",
+    "image": "//d37q0bzpeg751b.cloudfront.net/assets/GB/games/Elektra_180x100.jpg",
+    "categories": [ 
+      
+      {
+        "id": 3,
+        "name": "Popular Games"
+      },
+      {
+        "id": 79,
+        "name": "All Games"
+      },
+       {
+        "id": 4,
+        "name": "Jackpots"
+      }
+
+    ]
+    
+  },
+
+
+
+
+  
   
   
  
