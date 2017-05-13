@@ -5,19 +5,25 @@
 
 
 Clone : 
-$git clone https://github.com/polinazolotukhina/-RESTful-API-.git
+```javascript
+$ git clone https://github.com/polinazolotukhina/-RESTful-API-.git
+```
 
 
 ..........................................................................
 
 Go to the folder:
-$cd RESTful-API
+```javascript
+$ cd -RESTful-API-
+```
 
 
 ..........................................................................
 
 Run:
-$node server.js
+```javascript
+$ node server.js
+```
 
 
 ..........................................................................
